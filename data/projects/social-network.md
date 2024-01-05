@@ -15,7 +15,7 @@ technologies:
     - AWS S3
     - Bycript
     - Cookies
-# demoLink: https://github.com/TheAngryEnglishman/Social-Network
+# demoLink: https://github.com/harry-whorlow/Social-Network
 codeLink: https://github.com/harry-whorlow/Social-Network
 ---
 

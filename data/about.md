@@ -13,4 +13,4 @@ Since then I’ve widened my knowledge base completing various courses in topics
 
 Back-end I’ve experience with **NodeJS**, **SQL**, **AWS** and **Express**. I’ve experience setting up and hosting web applications.
 
-Check out my code over on [github](https://github.com/TheAngryEnglishman)
+Check out my code over on [github](https://github.com/harry-whorlow)

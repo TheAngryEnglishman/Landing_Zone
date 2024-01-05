@@ -15,7 +15,7 @@ technologies:
     - SQL
     - Wish and a prayer
 
-# demoLink: https://github.com/TheAngryEnglishman/Image-Board
+# demoLink: https://github.com/harry-whorlow/Image-Board
 codeLink: https://github.com/harry-whorlow/Image-Board
 ---
 
